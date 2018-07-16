@@ -1,0 +1,78 @@
+{
+  "dataRoles": [
+    {
+      "displayName": "Single Value",
+      "name": "myvalue",
+      "kind": "Measure"
+    }
+  ],
+  "dataViewMappings": [
+    {
+      "conditions": [ { "myvalue": { "min": 1, "max": 1 } } ],
+      "single": { "role": "myvalue" }
+    }
+  ],
+  "objects": {
+    "circleProperties": {
+      "displayName": "Circle Properties",
+      "properties": {
+        "enableCustomFontSizes": {
+          "displayName": "Enable Custom Font Sizes",
+          "type": { "bool": true }
+        },
+        "fontBold": {
+          "displayName": "Font Bold",
+          "type": { "bool": true }
+        },
+        "fontSize": {
+          "displayName": "Font Size",
+          "type": { "integer": true }
+        },
+        "fontColor": {
+          "displayName": "Font Color",
+          "type": { "fill": { "solid": { "color": true } } }
+        },
+        "backgroundColor": {
+          "displayName": "Background Color",
+          "type": { "fill": { "solid": { "color": true } } }
+        },
+        "minThreshold":{
+          "displayName": "Min Threshold",
+          "type": { "numeric": true }
+        },
+        "maxThreshold":{
+          "displayName": "Max Threshold",
+          "type": { "numeric": true }
+        },
+        "lowColor": {
+          "displayName": "Low Color",
+          "type": { "fill": { "solid": { "color": true } } }
+        },
+        "mediumColor": {
+          "displayName": "Medium Color",
+          "type": { "fill": { "solid": { "color": true } } }
+        },
+        "highColor": {
+          "displayName": "High Color",
+          "type": { "fill": { "solid": { "color": true } } }
+        },
+        "innerColor": {
+          "displayName": "Inner Color",
+          "type": { "fill": { "solid": { "color": true } } }
+        },
+        "outerLineWidth": {
+          "displayName": "Outer Line Width",
+          "type": { "numeric": true }
+        },
+        "innerLineWidth": {
+          "displayName": "Inner Line Width",
+          "type": { "numeric": true }
+        },
+        "amendmentSize": {
+          "displayName": "Amendment Size",
+          "type": { "numeric": true }
+        }
+      }
+    }
+  }
+}
