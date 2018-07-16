@@ -1,5 +1,29 @@
 {
-  "name": "visual",
+  "name": "PayPalKPIDonutChart",
+  "displayName": "PayPal KPI Donut Chart",
+  "version": "1.0.0",
+  "description": "This is a doughnut chart used to represent the percentage of data. It consists of an outer ring and an inner ring. You can adjust the thickness of the line, the radius, the color of the display, and so on. Specific details, you can go to this control to practice.",
+  "author": {
+    "name": "Kevin Hu",
+    "email": "yonghu@paypal.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bliu5379/PayPal-PowerBI-Custom-Visuals"
+  },
+  "keywords": [
+    "powerbi-visuals",
+    "PayPal",
+    "Kpi-donut-chart"
+  ],
+  "scripts": {
+    "postinstall": "pbiviz update 1.5.0",
+    "pbiviz": "pbiviz",
+    "start": "pbiviz start",
+    "package": "pbiviz package",
+    "cert": "pbiviz --create-cert"
+  },
+  "license": "MIT",
   "dependencies": {
     "@types/jquery": "^2.0.41",
     "d3": "^3.5.17",
