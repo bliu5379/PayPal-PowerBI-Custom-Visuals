@@ -2,7 +2,7 @@
 
 ![PayPalDonutChartKPI screenshot](https://raw.githubusercontent.com/bliu5379/PayPal-PowerBI-Custom-Visuals/master/assets/screenshot.png)
 # Overview
-Each KPI can be visualized as donut chart. The visual is used to represent the percentage of data. It consists of an outer ring and an inner ring. You can adjust the thickness of the line, the radius, the color of the display, and so on.
+Each KPI can be visualized as donut chart. The visual is used to represent the percentage of data. It consists of an outer ring and an inner ring. You can change thickness and color of the rings,  font size and color of the display, as well as the visual background color.
 
 ## Data fields
 **Single Value**
