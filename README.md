@@ -40,7 +40,7 @@ Please see the explanation of Min Threshold.
 Please see the explanation of Min Threshold.
 
 **Inner color**
-Set the color if the inner ring.
+Set the color of the inner ring.
 
 **Outer Line Width**
 Set the thickness of the outer ring.
