@@ -51,5 +51,12 @@ Set the thickness of the inner ring.
 **Amendment Size**
 Set the overlap position of the outer ring and the inner ring.
 
+## Contact Us
+**Email**
+[DL-PayPal-IT-Analytics@paypal.com](DL-PayPal-IT-Analytics@paypal.com)
+
+**Issue Report**
+[https://github.com/bliu5379/PayPal-PowerBI-Custom-Visuals/issues](https://github.com/bliu5379/PayPal-PowerBI-Custom-Visuals/issues)
+
 
 
