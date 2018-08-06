@@ -1,14 +1,14 @@
 ## **Legal**
 
-### **PayPal Custom Visual Privacy Policy 2018**
+### **Paypal_ITA Custom Visual Privacy Policy 2018**
 
 Effective date of this Privacy Policy: July 6, 2018
 
-PayPal KPI Donut Chart Custom Visuals for Microsoft PowerBI policy on Privacy
+Paypal_ITA KPI Donut Chart Custom Visuals for Microsoft PowerBI policy on Privacy
 
-PayPal KPI Donut Chart Custom Visuals for Microsoft PowerBI (&quot;Custom Visuals&quot;) are
+Paypal_ITA KPI Donut Chart Custom Visuals for Microsoft PowerBI (&quot;Custom Visuals&quot;) are
 
-developed by PayPal &quot;IT Analytics Team&quot; (PYPL\_ITA)
+developed by PayPal &quot;IT Analytics Team&quot; (Paypal_ITA)
 
 This policy on privacy apply to the data processed by Custom Visuals.
 
@@ -22,7 +22,7 @@ Visuals and/or provide it to Us.
 
 1.  Use of Data:
 
-Custom Visuals provided by PYPL\_ITA use information that is provided through
+Custom Visuals provided by Paypal_ITA use information that is provided through
 
 Microsoft Power BI platform and/or application to convert it into visual
 
@@ -46,7 +46,7 @@ Custom Visuals do not collect any personal information and do not store it.
 
 You are liable for the appropriate use of Custom Visuals.
 
-All copyrights in or to the Custom Visual or part of them are owned by PYPL\_ITA,
+All copyrights in or to the Custom Visual or part of them are owned by Paypal_ITA,
 
 our licensors or our partners, who reserved all their rights.
 
