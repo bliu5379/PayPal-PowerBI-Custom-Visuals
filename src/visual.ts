@@ -65,7 +65,7 @@ module powerbi.extensibility.visual {
             context.lineCap = "round";
             var radius = center_x - context.lineWidth+amendmentSize-10;
             context.beginPath();
-            context.arc(center_x, center_y, radius , -1*Math.PI/2, -1*Math.PI/2 +n*rad, false); //用于绘制圆弧context.arc(x坐标，y坐标，半径，起始角度，终止角度，顺时针/逆时针)
+            context.arc(center_x, center_y, radius , -1*Math.PI/2, -1*Math.PI/2 +n*rad, false); //Used to draw arc context.arc (x coordinate, y coordinate, radius, starting angle, ending angle, clockwise/counterclockwise)
             context.stroke();
             context.closePath();
             context.restore();
